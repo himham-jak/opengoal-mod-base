@@ -1,4 +1,4 @@
-# OpenGoal Movement Mod
+# Jak1 Movement Mod
 
 ## Features
 
