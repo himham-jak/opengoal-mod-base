@@ -1,4 +1,4 @@
-# OpenGoal Microtransactions Mod
+# Jak1 Microtransactions Mod
 
 ## Features
 
