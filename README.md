@@ -1,4 +1,4 @@
-# OpenGoal Wall Walking Mod
+# Jak1 Wall Walking Mod
 
 ## Features
 
